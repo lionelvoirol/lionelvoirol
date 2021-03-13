@@ -3,9 +3,16 @@
 My name is Lionel Voirol and I am a PhD candidate working at the Research Center for Statistics at the University of Geneva.
 
 
+## 🔭 Research interests
+
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/R-RStudio?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+
 
 
 ## &#x1f4c8; GitHub Stats
