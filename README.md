@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-My name is Lionel Voirol and I am a PhD candidate working at the Research Center for Statistics at the University of Geneva.
+My name is Lionel Voirol and I am a PhD candidate working at the Research Center for Statistics at the University of Geneva under the supervision of Prof. Maria-Pia Victoria-Feser and Prof. Stéphane Guerrier.
 
 
 ## 🔭 Research interests
-
+My research interests include:
+  - Time series analysis
+  - Inference of complex models for dependant data
+  - Applied Statistics
+  - Computational Statistics
+  - Machine Learning
 
 
 ## 🔧 Technologies & Tools
