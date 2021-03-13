@@ -8,6 +8,7 @@ My research interests include:
   - Time series analysis
   - Inference of complex models for dependant data
   - Boostrap methods
+  - High-dimensional Statistics
   - Applied Statistics
   - Computational Statistics
   - Machine Learning
