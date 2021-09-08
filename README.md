@@ -6,7 +6,6 @@ I am Lionel Voirol and I am a PhD candidate working at the [Research Center for 
 ## 🔭 Research interests
 My research interests include:
   - Time series analysis
-  - Inference of complex models for dependant data
   - Boostrap methods
   - High-dimensional Statistics
   - Applied Statistics
