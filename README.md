@@ -1,12 +1,13 @@
 ### Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am Lionel Voirol and I am a PhD candidate working at the [Research Center for Statistics](https://www.unige.ch/gsem/en/research/institutes/rcs/) of the University of Geneva under the supervision of Prof. Maria-Pia Victoria-Feser and Prof. Stéphane Guerrier.
+My name is Lionel Voirol and I am a PhD candidate working at the [Research Center for Statistics](https://www.unige.ch/gsem/en/research/institutes/rcs/) of the University of Geneva under the supervision of Prof. Maria-Pia Victoria-Feser and Prof. Stéphane Guerrier.
 
 
 ## 🔭 Research interests
 My research interests include:
   - Time series analysis
   - Boostrap methods
+  - Generalized Mixed Linear Models
   - High-dimensional Statistics
   - Applied Statistics
   - Computational Statistics
