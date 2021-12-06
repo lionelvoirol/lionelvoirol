@@ -6,12 +6,14 @@ My name is Lionel Voirol and I am a PhD candidate working at the [Research Cente
 ## 🔭 Research interests
 My research interests include:
   - Time series analysis
+  - Signal Processing
   - Boostrap methods
   - Generalized Mixed Linear Models
-  - High-dimensional Statistics
   - Applied Statistics
   - Computational Statistics
   - Machine Learning
+  - High-dimensional Statistics
+
 
 
 ## 🔧 Technologies & Tools
