@@ -34,7 +34,7 @@ My research interests include:
 </a>
 
 <a href="https://github.com/lionelvoirol/lionelvoirol">
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=lionelvoirol&layout=compact&card_width=275&hide=c,meson,makefile,python,m4" alt="lionelvoirol's Top Languages" align="center" width="330", height = "300">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=lionelvoirol&layout=compact&card_width=275&hide=c,meson,makefile,python,m4" alt="lionelvoirol's Top Languages" align="center" width="330", height = "350">
 </a>
 
 
