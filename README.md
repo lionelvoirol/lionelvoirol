@@ -31,6 +31,8 @@ My research interests include:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lionelvoirol&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lionel's GitHub Stats" />
 </a>
 
+## Socials
+
 <a href="https://ch.linkedin.com/in/lionel-voirol-247a5a164">
   <img align="left" alt="Lionel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
