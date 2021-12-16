@@ -14,7 +14,7 @@ My research interests include:
   - Applied Statistics
   - Computational Statistics
   - Machine Learning
-  - High-dimensional Statistics & variable selection
+  - High-dimensional Statistics & Variable selection
 
 
 
