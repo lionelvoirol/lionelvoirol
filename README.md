@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/lionelvoirol/lionelvoirol)
+![GitHub last commit](https://img.shields.io/github/last-commit/lionelvoirol/lionelvoirol) <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=lionelvoirol&style=flat-square">
 
 ### Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
