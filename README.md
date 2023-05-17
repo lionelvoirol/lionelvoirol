@@ -9,8 +9,7 @@ I am currently a Ph.D. candidate working at the [Research Center for Statistics]
 
 ## 🔭 Research interests
 My research interests include:
-  - Time series analysis
-  - Signal Processing
+  - Time series analysis & Signal Processing
   - Boostrap methods
   - Generalized Mixed Linear Models
   - Applied Statistics
