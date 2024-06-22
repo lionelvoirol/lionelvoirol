@@ -27,21 +27,6 @@ My research interests include:
 ![](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-
-Note: These statistics only concerns my personal repositories. Most of my contributions to open source statistical softwares or educational ressources are published under [the SMAC-Group account](https://github.com/SMAC-Group). 
-
-<a href="https://github.com/lionelvoirol/lionelvoirol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lionelvoirol&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lionel's GitHub Stats" />
-</a>
-
-&nbsp;
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionelvoirol&count_private=true&layout=compact&hide=HTML,javascript,CSS&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/lionelvoirol/lionelvoirol)
-
-
-
-
 ## Socials
 
 <a href="https://ch.linkedin.com/in/lionel-voirol-247a5a164">
