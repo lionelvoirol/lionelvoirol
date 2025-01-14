@@ -1,5 +1,3 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/lionelvoirol/lionelvoirol) 
-
 # Lionel Voirol
 
 Hey ! 
