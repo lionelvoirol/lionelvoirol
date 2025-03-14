@@ -2,7 +2,7 @@
 
 Hey ! 
 
-I am currently a Ph.D. candidate working at the [Research Center for Statistics](https://www.unige.ch/gsem/en/research/institutes/rcs/) of the University of Geneva advised by [Prof. Stéphane Guerrier](https://scholar.google.com/citations?user=gYtEmbwAAAAJ&hl=en&oi=ao). Before my Ph.D., I obtained a B.Sc. in Economics and Management and a M.Sc. in Business Analytics at the University of Geneva.
+I am currently a Ph.D. candidate working at the [Research Institute for Statistics and Information Science](https://www.unige.ch/gsem/en/research/institutes/risis/) of the University of Geneva advised by [Prof. Stéphane Guerrier](https://scholar.google.com/citations?user=gYtEmbwAAAAJ&hl=en&oi=ao). Before my Ph.D., I obtained a B.Sc. in Economics and Management and a M.Sc. in Business Analytics at the University of Geneva.
 
 
 ## 🔭 Research interests
