@@ -1,9 +1,12 @@
 # Lionel Voirol
 
-Hey ! 
+Hi,
 
-I am currently a Ph.D. candidate working at the [Research Institute for Statistics and Information Science](https://www.unige.ch/gsem/en/research/institutes/risis/) of the University of Geneva advised by [Prof. Stéphane Guerrier](https://scholar.google.com/citations?user=gYtEmbwAAAAJ&hl=en&oi=ao). Before my Ph.D., I obtained a B.Sc. in Economics and Management and a M.Sc. in Business Analytics at the University of Geneva.
+I am a statistician and data scientist completing a Ph.D. in Statistics at the University of Geneva (June 2026), advised by Prof. Stéphane Guerrier, with a Master’s degree in Business Analytics. I combine advanced statistical modeling expertise with strong software engineering skills to design scalable solutions for complex real-world data. I am proficient in R, Python, and C++, with experience in SQL and database systems, as well as complex data types including time series, images, and networks.
 
+During my Ph.D., I developed novel statistical methodologies for inference, prediction, and model selection in large-scale datasets with temporal and spatial dependence, with applications in engineering, Earth sciences, and biomedical sciences. I implement these methods as scalable, production-ready tools, including open-source R packages distributed on CRAN, enabling reproducible and efficient analytical workflows. I have experience translating business and scientific problems into quantitative solutions that support decision-making under uncertainty. I have worked across diverse research environments, including at the University of Geneva, the École Polytechnique Fédérale de Lausanne (EPFL), the Brookhaven National Laboratory, and Auburn University, collaborating with interdisciplinary teams on applied statistical and data-driven projects.
+
+I am currently seeking quantitative roles in industry within organizations that value rigorous methodology, practical impact, and well-engineered data systems. 
 
 ## 🔭 Research interests
 My research interests include:
