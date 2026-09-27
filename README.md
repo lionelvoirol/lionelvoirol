@@ -2,23 +2,17 @@
 
 Hi,
 
-I am a statistician and data scientist completing a Ph.D. in Statistics at the University of Geneva (June 2026), advised by Prof. Stéphane Guerrier, with a Master’s degree in Business Analytics. I combine advanced statistical modeling expertise with strong software engineering skills to design scalable solutions for complex real-world data. I am proficient in R, Python, and C++, with experience in SQL and database systems, as well as complex data types including time series, images, and networks.
+I am a statistician and data scientist with a Ph.D. in Statistics and a Master’s degree in Business Analytics. I combine statistical modeling, machine learning, and software engineering to solve business and scientific problems using data.
 
-During my Ph.D., I developed novel statistical methodologies for inference, prediction, and model selection in large-scale datasets with temporal and spatial dependence, with applications in engineering, Earth sciences, and biomedical sciences. I implement these methods as scalable, production-ready tools, including open-source R packages distributed on CRAN, enabling reproducible and efficient analytical workflows. I have experience translating business and scientific problems into quantitative solutions that support decision-making under uncertainty. I have worked across diverse research environments, including at the University of Geneva, the École Polytechnique Fédérale de Lausanne (EPFL), the Brookhaven National Laboratory, and Auburn University, collaborating with interdisciplinary teams on applied statistical and data-driven projects.
+Seeking technical roles in data science, machine learning, quantitative research, or advanced analytics within organizations that value rigorous methodology, real-world impact, and well-engineered data solutions.
 
-I am currently seeking quantitative roles in industry within organizations that value rigorous methodology, practical impact, and well-engineered data systems. 
+During my Ph.D., I developed statistical methods driven by real-world applications across engineering, health sciences, and Earth sciences. In particular, I developed new computationally efficient statistical methodologies for inference, model selection, and prediction in large-scale datasets with temporal and spatial dependence, with applications to inertial sensor calibration and Earth Sciences. I implemented these methods as reproducible open-source tools, including production-ready R packages distributed on CRAN, supporting large-scale data processing and production-level analytical workflows.
 
 ## 🔭 Research interests
 My research interests include:
-  - Time series analysis & Signal Processing
-  - Boostrap methods
-  - Generalized Mixed Linear Models
-  - Applied Statistics
-  - Computational Statistics
-  - Machine Learning
-  - High-dimensional Statistics & Variable selection
-
-
+  - Time series analysis & signal processing
+  - Applied & computational statistics
+  - Machine learning
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
